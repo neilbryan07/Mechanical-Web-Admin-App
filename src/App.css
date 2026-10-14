@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Inter Regular */
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Roboto:wght@100;400&display=swap');
+
+/* Inter Medium */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Roboto:wght@100;400&display=swap');
+
+/* Inter SemiBold */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Roboto:wght@100;400&display=swap');
+
+/* Inter Bold */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Roboto:wght@100;400&display=swap');
+
+/* Roboto Regular */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&family=Roboto&display=swap');

@@ -1,0 +1,82 @@
+{
+  "name": "technician_web",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@material-ui/styles": "^4.11.5",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/lab": "^5.0.0-alpha.133",
+    "@mui/material": "^5.12.2",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "@mui/styles": "^5.15.14",
+    "@mui/x-data-grid": "^6.19.4",
+    "@mui/x-date-pickers": "^6.20.0",
+    "@react-icons/all-files": "^4.1.0",
+    "@react-pdf/renderer": "^3.3.6",
+    "@reduxjs/toolkit": "^1.9.5",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.6.8",
+    "chroma-js": "^2.4.2",
+    "date-fns": "^3.6.0",
+    "dayjs": "^1.11.11",
+    "file-saver": "^2.0.5",
+    "formik": "^2.4.4",
+    "jszip": "^3.10.1",
+    "lottie-react": "^2.4.0",
+    "react": "^18.3.1",
+    "react-content-loader": "^6.2.1",
+    "react-date-range": "^2.0.1",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.9.0",
+    "react-password-checklist": "^1.5.0",
+    "react-pro-sidebar": "^1.1.0-alpha.1",
+    "react-redux": "^8.1.1",
+    "react-router-dom": "^6.10.0",
+    "react-scripts": "5.0.1",
+    "react-select": "^5.7.5",
+    "react-spring": "^9.7.2",
+    "react-tiny-popover": "^8.0.4",
+    "react-toastify": "^11.0.3",
+    "react-zoom-pan-pinch": "^3.3.0",
+    "redux": "^4.2.1",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.2",
+    "socket.io-client": "^4.8.1",
+    "styled-components": "^5.3.10",
+    "sweetalert2": "^11.10.5",
+    "web-vitals": "^2.1.4",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts --max_old_space_size=4096 start",
+    "build": "react-scripts --max_old_space_size=4096 build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
